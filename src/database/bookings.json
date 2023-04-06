@@ -1,0 +1,22 @@
+{
+    "bookings": [
+      {
+        "id": "1",
+        "bookedby": "Altina",
+        "time": "16",
+        "details": {
+          "phone": "0456372929",
+          "seats": "6"
+        }
+      },
+      {
+        "id": "2",
+        "bookedby": "Egzon",
+        "time": "16",
+        "details": {
+          "phone": "049287379",
+          "seats": "2"
+        }
+      }
+    ]
+  }

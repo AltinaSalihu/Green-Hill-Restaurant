@@ -1,0 +1,40 @@
+{
+  "bookings": [
+    {
+      "id": "7914",
+      "bookedby": "Altina Salihu",
+      "time": "13:00",
+      "details": {
+        "phone": "034-394-384",
+        "seats": "3"
+      }
+    },
+    {
+      "id": "9240",
+      "bookedby": "Egzon Shehu",
+      "time": "20:00",
+      "details": {
+        "phone": "127-368-239",
+        "seats": "20"
+      }
+    },
+    {
+      "id": "9429",
+      "bookedby": "Lirim Shehu",
+      "time": "22:00",
+      "details": {
+        "phone": "383-394-293",
+        "seats": "2"
+      }
+    },
+    {
+      "id": "2304",
+      "bookedby": "Lorika Uka",
+      "time": "11:00",
+      "details": {
+        "phone": "928-3049",
+        "seats": "4"
+      }
+    }
+  ]
+}
