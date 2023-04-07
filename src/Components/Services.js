@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "./Navbar"; // import the navbar component
+import Navbar from "./Navbar"; 
 import Cioppino from "../Assets/cioppino.png";
 import Paella from "../Assets/paella.png";
 import Ceviche from "../Assets/ceviche.png";
@@ -24,7 +24,7 @@ const Services = () => {
     ];
     return (
       <div>
-        <Navbar /> {/* add the navbar component here */}
+        <Navbar /> 
         <div className="service-section-wrapper">
           <div className="service-section-top">
             <p className="primary-subheading">SERVICES</p>
