@@ -1,12 +1,12 @@
 import React from "react";
-import Navbar from "./Navbar"; // import the navbar component
+import Navbar from "./Navbar"; 
 import ProfilePic from "../Assets/photo.png";
 import { AiFillStar } from "react-icons/ai";
 
 const Ratings = () => {
   return (
     <div>
-      <Navbar /> {/* add the navbar component here */}
+      <Navbar /> 
       <div className="rating-section-wrapper">
         <div className="service-section-top">
           <p className="primary-subheading">RATINGS</p>
